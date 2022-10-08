@@ -1,0 +1,23 @@
+.Containers{
+  width: 400px;
+  height: 400px;
+  background-color: antiquewhite;
+  border-radius: 4px;
+  align-content: center;
+  margin: auto;
+  margin-top: 40px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+ 
+}
+.imgas{
+  padding-top: 20px;
+width: 60px;
+height: 60px;
+}
+.login{
+  padding-top: 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
